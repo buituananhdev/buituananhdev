@@ -5,9 +5,9 @@
 </p>
 
 
-- ✍ I'm a student of: [Danang University of Technology and Education](https://dut.udn.vn/) (DUT).
+- ✍ I'm a student of: [Danang University of Technology](https://dut.udn.vn/) (DUT).
 
-- 🌱 I’m currently learning **Frontend Developer.**
+- 🌱 I’m currently learning **Website Development.**
 
 <br />
 
@@ -53,3 +53,7 @@
     </td>
   </tr>
 </table>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=TuanAnh1003&show_icons=true&theme=radical" alt="">
+</div>
