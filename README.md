@@ -1,4 +1,4 @@
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
+<img align="left" width="400" src="https://drive.google.com/file/d/1OexESZs8AiQ6Ano-8msvV3oKi377eXpW/view?usp=share_link">
 <h1 align="center">Hi 👋, I'm Tuan Anh</h1>
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
@@ -54,6 +54,3 @@
   </tr>
 </table>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TuanAnh1003&show_icons=true&theme=radical" alt="">
-</div>
