@@ -33,6 +33,7 @@
   <img src="https://img.icons8.com/color/48/null/css3.png"/>
   <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/null/vue-js.png"/>
+  <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
