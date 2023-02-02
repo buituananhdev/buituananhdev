@@ -22,6 +22,9 @@
   <a href="https://github.com/TuanAnh1003" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
+  <a href="https://gitlab.com/TuanAnh2003" alt="Gitlab">
+    <img src="https://img.icons8.com/color/48/null/gitlab.png"/>
+  </a>
   <a href="mailto:anhaanh2003@gmail.com" alt="Email">
     <img src="https://img.icons8.com/color/48/null/gmail--v1.png"/>
   </a>
