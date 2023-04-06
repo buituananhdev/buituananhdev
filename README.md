@@ -24,7 +24,7 @@
   </a>
 </p>
 
-## Skills:
+## <img src="https://img.icons8.com/color/48/null/persuasion-skills.png"/> Skills:
 <p> 
   <img src="https://img.icons8.com/fluency/48/null/javascript.png"/>
   <img src="https://img.icons8.com/color/48/null/vue-js.png"/>
