@@ -4,9 +4,9 @@
 </p>
 
 
-- ✍ I'm a student of: [Danang University of Technology](https://dut.udn.vn/) (DUT).
+- ✍ I'm currently studying at [Danang University of Technology](https://dut.udn.vn/) (DUT).
 
-- 🌱 I’m currently learning **Website Development.**
+- 🌱 I'm studying and working as a **Website Developer.**
 
 <br />
 
