@@ -12,7 +12,7 @@
 
 ## 📫 How to reach me:
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/buituananh103/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
@@ -31,7 +31,7 @@
 </p>
 
 ## Skills:
-<p align="center"> 
+<p> 
   <img src="https://img.icons8.com/fluency/48/null/javascript.png"/>
   <img src="https://img.icons8.com/color/48/null/vue-js.png"/>
   <img src="https://img.icons8.com/color/48/null/nuxt-jc.png"/>
