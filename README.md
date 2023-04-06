@@ -32,11 +32,9 @@
 
 ## Skills:
 <p align="center"> 
-  <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/48/null/css3.png"/>
-  <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/null/vue-js.png"/>
   <img src="https://img.icons8.com/color/48/null/nuxt-jc.png"/>
+  <img src="<img src="https://img.icons8.com/color/48/null/nuxt-jc.png"/>"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </p>
