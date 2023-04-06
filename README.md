@@ -10,7 +10,7 @@
 
 <br />
 
-## 📫 How to reach me:
+### 📫 How to reach me:
 
 <p>
   <a href="https://www.facebook.com/buituananh.bta.99" alt="Facebook">
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-## <img src="https://img.icons8.com/color/48/null/persuasion-skills.png"/> Skills:
+### Skills:
 <p> 
   <img src="https://img.icons8.com/fluency/48/null/javascript.png"/>
   <img src="https://img.icons8.com/color/48/null/vue-js.png"/>
@@ -35,7 +35,7 @@
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </p>
 
-## Activities:
+### Activities:
 
 <table style="width:100%;">
   <tr>
