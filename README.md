@@ -38,7 +38,7 @@
 ### Activities:
 
 <table style="width:100%;border-radius:12px">
-  <tr style="border:none">
+  <tr style="border:none !important">
     <td style="border:none">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanAnh1003&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10" alt="TuanAnh1003" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=TuanAnh1003&show_icons=true&theme=radical&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true" alt="TuanAnh1003" width="100%">
