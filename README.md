@@ -37,13 +37,8 @@
   <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/null/vue-js.png"/>
   <img src="https://img.icons8.com/color/48/null/nuxt-jc.png"/>
-  <img src="https://img.icons8.com/color/48/null/c-plus-plus-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/sf-black-filled/64/null/github.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
-  <img src="https://img.icons8.com/color-glass/48/null/slack-new.png"/>
 </p>
 
 ## Activities:
