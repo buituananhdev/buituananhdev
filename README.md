@@ -32,6 +32,7 @@
 
 ## Skills:
 <p align="center"> 
+  <img src="https://img.icons8.com/fluency/48/null/javascript.png"/>
   <img src="https://img.icons8.com/color/48/null/vue-js.png"/>
   <img src="https://img.icons8.com/color/48/null/nuxt-jc.png"/>
   <img src="https://img.icons8.com/fluency/48/null/c-sharp-logo.png"/>
