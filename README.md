@@ -26,8 +26,8 @@
 
 ### Skills:
 <p> 
-  <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/48/null/css3.png"/>
+  <img src="https://img.icons8.com/color/35/null/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/35/null/css3.png"/>
   <img src="https://img.icons8.com/fluency/35/null/javascript.png"/>
   <img src="https://img.icons8.com/color/35/null/vue-js.png"/>
   <img src="https://img.icons8.com/color/35/null/nuxt-jc.png"/>
@@ -40,11 +40,11 @@
 ### Activities:
 
 <table style="width:100%;border-radius:12px;display:flex;justify-content:space-between;flex-wrap:wrap;">
-  <tr style="width:calc(50% - 12px);">
+  <tr style="width:calc(65%);">
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanAnh1003&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10" alt="TuanAnh1003" width="100%"/>
   </div>
-  <div style="width:calc(50% - 12px);">
+  <div style="width:calc(65%);">
       <img src="https://github-readme-stats.vercel.app/api?username=TuanAnh1003&show_icons=true&theme=radical&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true" alt="TuanAnh1003" width="100%">
     </td>
     <td style="width:calc(50% - 12px);">
