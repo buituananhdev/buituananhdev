@@ -26,6 +26,8 @@
 
 ### Skills:
 <p> 
+  <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/null/css3.png"/>
   <img src="https://img.icons8.com/fluency/35/null/javascript.png"/>
   <img src="https://img.icons8.com/color/35/null/vue-js.png"/>
   <img src="https://img.icons8.com/color/35/null/nuxt-jc.png"/>
