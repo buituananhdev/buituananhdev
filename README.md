@@ -6,7 +6,7 @@
 
 - ✍ I'm currently studying at [Danang University of Technology](https://dut.udn.vn/) (DUT).
 
-- 🌱 I'm studying and working as a **Website Developer.**
+- 🌱 Studying and working as a **Website Developer.**
 
 <br />
 
