@@ -2,7 +2,7 @@
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
-
+![](https://komarev.com/ghpvc/?username=TuanAnh1003)
 
 - ✍ I'm currently studying at [Danang University of Technology](https://dut.udn.vn/) (DUT).
 
