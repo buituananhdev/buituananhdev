@@ -4,8 +4,6 @@
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=TuanAnh1003)
-
 - ✍ I'm currently studying at [Danang University of Technology](https://dut.udn.vn/) (DUT).
 
 - 🌱 Studying and working as a **Website Developer.**
