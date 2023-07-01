@@ -25,13 +25,13 @@
 
 ### Skills:
 <p align="center"> 
-  <img src="https://img.icons8.com/color/38/null/html-5--v1.png"/>
+<!--   <img src="https://img.icons8.com/color/38/null/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/38/null/css3.png"/>
-  <img src="https://img.icons8.com/fluency/38/null/javascript.png"/>
+  <img src="https://img.icons8.com/fluency/38/null/javascript.png"/> -->
+  <img src="https://img.icons8.com/color/38/null/net-framework.png"/>
   <img src="https://img.icons8.com/color/38/null/vue-js.png"/>
   <img src="https://img.icons8.com/color/38/null/nuxt-jc.png"/>
-  <img src="https://img.icons8.com/fluency/38/null/c-sharp-logo.png"/>
-  <img src="https://img.icons8.com/color/38/null/net-framework.png"/>
+<!--   <img src="https://img.icons8.com/fluency/38/null/c-sharp-logo.png"/> -->
   <img src="https://img.icons8.com/color/38/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/38/000000/git.png"/>
 </p>
