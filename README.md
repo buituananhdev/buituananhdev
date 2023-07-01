@@ -11,7 +11,7 @@
 
 ### 📫 How to reach me:
 
-<p align="center">
+<p align="left">
   <a href="https://www.facebook.com/buituananh.bta.99" alt="Facebook">
     <img src="https://img.icons8.com/fluent/38/000000/facebook-new.png" target="_blank" />
   </a> 
@@ -24,7 +24,7 @@
 </p>
 
 ### Skills:
-<p align="center"> 
+<p align="left"> 
 <!--   <img src="https://img.icons8.com/color/38/null/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/38/null/css3.png"/>
   <img src="https://img.icons8.com/fluency/38/null/javascript.png"/> -->
