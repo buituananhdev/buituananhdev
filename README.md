@@ -28,12 +28,20 @@
 <!--   <img src="https://img.icons8.com/color/38/null/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/38/null/css3.png"/>
   <img src="https://img.icons8.com/fluency/38/null/javascript.png"/> -->
-  <img src="https://img.icons8.com/color/38/null/net-framework.png"/>
-  <img src="https://img.icons8.com/color/38/null/vue-js.png"/>
-  <img src="https://img.icons8.com/color/38/null/nuxt-jc.png"/>
+  <a href="https://github.com/TuanAnh1003](https://learn.microsoft.com/en-us/dotnet/core/introduction)" alt=">NET CORE">
+    <img src="https://img.icons8.com/color/38/null/net-framework.png"/>
+  </a> 
+  <a href="https://vuejs.org/" alt=">VueJs">
+    <img src="https://img.icons8.com/color/38/null/vue-js.png"/>
+  </a> 
+  <a href="https://nuxt.com/" alt=">Nuxt">
+    <img src="https://img.icons8.com/color/38/null/nuxt-jc.png"/>
+  </a> 
 <!--   <img src="https://img.icons8.com/fluency/38/null/c-sharp-logo.png"/> -->
-  <img src="https://img.icons8.com/color/38/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/38/000000/git.png"/>
+  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" alt=">SQL Server">
+   <img src="https://img.icons8.com/color/38/000000/microsoft-sql-server.png"/>
+  </a> 
+<!--   <img src="https://img.icons8.com/color/38/000000/git.png"/> -->
 </p>
 
 ### Activities:
