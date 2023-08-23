@@ -14,6 +14,9 @@
 <p align="left">
   <a href="https://www.facebook.com/buituananh.bta.99" alt="Facebook">
     <img src="https://img.icons8.com/fluent/38/000000/facebook-new.png" target="_blank" />
+  </a>
+  <a href="https://www.linkedin.com/in/buituananh103/" alt="Linkedin">
+    <img width="38" height="38" src="https://img.icons8.com/fluency/38/linkedin.png" alt="linkedin"/>
   </a> 
   <a href="https://github.com/TuanAnh1003" alt="Github">
     <img src="https://img.icons8.com/fluent/38/000000/github.png"/>
