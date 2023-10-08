@@ -7,7 +7,7 @@
 - ✍ I'm currently studying at [Danang University of Technology](https://dut.udn.vn/) (DUT).
 - 🌱 Studying and working as a **Full-stack Developer**.
 
-### Contact me:
+## Contact me:
 
 <p align="left">
   <a href="https://www.facebook.com/buituananh.bta.99" alt="Facebook">
@@ -22,7 +22,7 @@
 </p>
 
 
-### My Tech Stack
+## My Tech Stack
 
 ![C#](http://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=ffffff)
 ![ASP.NET CORE](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=asp.net&logoColor=white)
@@ -32,7 +32,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Tailwind CSS](http://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=ffffff)
 
-#### Tools
+### Tools
 ![My SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![My SQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
