@@ -6,7 +6,9 @@
 
 - ✍ I'm currently studying at [Danang University of Technology](https://dut.udn.vn/) (DUT).
 - 🌱 Studying and working as a **Full-stack Developer**.
+  
 <br />
+
 ### Contact:
 
 <p align="left">
@@ -30,7 +32,7 @@
 ![Vue.js](http://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Tailwind CSS](http://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
 ![AWS](http://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=ffffff)
 ![Firebase](http://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
 
