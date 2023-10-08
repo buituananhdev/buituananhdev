@@ -13,13 +13,13 @@
 
 <p align="left">
   <a href="https://www.facebook.com/buituananh.bta.99" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/38/000000/facebook-new.png" target="_blank" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" target="_blank" />
   </a>
   <a href="https://www.linkedin.com/in/buituananh103/" alt="Linkedin">
-    <img width="38" height="38" src="https://img.icons8.com/fluency/38/linkedin.png" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a> 
   <a href="mailto:anhaanh2003@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/color/38/null/gmail--v1.png"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
