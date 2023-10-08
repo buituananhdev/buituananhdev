@@ -6,10 +6,8 @@
 
 - ✍ I'm currently studying at [Danang University of Technology](https://dut.udn.vn/) (DUT).
 - 🌱 Studying and working as a **Full-stack Developer**.
-  
-<br />
 
-### Contact:
+### Contact me:
 
 <p align="left">
   <a href="https://www.facebook.com/buituananh.bta.99" alt="Facebook">
