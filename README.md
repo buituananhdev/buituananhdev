@@ -23,27 +23,18 @@
   </a>
 </p>
 
-### Languages and Tools:
-<p align="left"> 
-<!--   <img src="https://img.icons8.com/color/38/null/html-5--v1.png"/>
-  <img src="https://img.icons8.com/color/38/null/css3.png"/>
-  <img src="https://img.icons8.com/fluency/38/null/javascript.png"/> -->
-  <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" alt=">NET CORE">
-    <img src="https://img.icons8.com/color/38/null/net-framework.png"/>
-  </a> 
-  <a href="https://vuejs.org/" alt=">VueJs">
-    <img src="https://img.icons8.com/color/38/null/vue-js.png"/>
-  </a> 
-  <a href="https://nuxt.com/" alt=">Nuxt">
-    <img src="https://img.icons8.com/color/38/null/nuxt-jc.png"/>
-  </a> 
-<!--   <img src="https://img.icons8.com/fluency/38/null/c-sharp-logo.png"/> -->
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" alt=">SQL Server">
-   <img src="https://img.icons8.com/color/38/000000/microsoft-sql-server.png"/>
-  </a> 
-<!--   <img src="https://img.icons8.com/color/38/000000/git.png"/> -->
-</p>
 
-<br />
+### My Tech Stack
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanAnh1003&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10" alt="TuanAnh1003" width="100%"/>
+![C#](http://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=ffffff)
+![Node.js](http://img.shields.io/badge/-Node.js-68A063?style=flat-square&logo=node.js&logoColor=ffffff)
+![Vue.js](http://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=ffffff)
+![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Tailwind CSS](http://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![AWS](http://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=ffffff)
+![Firebase](http://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff)
+
+#### Tools
+![My SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
