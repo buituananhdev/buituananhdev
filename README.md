@@ -5,10 +5,8 @@
 </p>
 
 - ✍ I'm currently studying at [Danang University of Technology](https://dut.udn.vn/) (DUT).
-- 🌱 Studying and working as a **Website Developer**.
-
+- 🌱 Studying and working as a **Full-stack Developer**.
 <br />
-
 ### Contact:
 
 <p align="left">
@@ -27,6 +25,7 @@
 ### My Tech Stack
 
 ![C#](http://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=ffffff)
+![ASP.NET CORE](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat-square&logo=asp.net&logoColor=white)
 ![Node.js](http://img.shields.io/badge/-Node.js-68A063?style=flat-square&logo=node.js&logoColor=ffffff)
 ![Vue.js](http://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
