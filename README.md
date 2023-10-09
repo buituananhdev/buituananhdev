@@ -29,6 +29,7 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![Node.js](http://img.shields.io/badge/-Node.js-68A063?style=flat-square&logo=node.js&logoColor=ffffff)
 ![Vue.js](http://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=ffffff)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxt.js&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Tailwind CSS](http://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=ffffff)
 
