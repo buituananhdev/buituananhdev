@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tuan Anh</h1>
+<h1 align="left">Hi 👋, I'm Tuan Anh</h1>
 
-<p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+<p align="left">
+  <h3 align="left">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 
 - ✍ I'm currently studying at [Danang University of Technology](https://dut.udn.vn/) (DUT).
