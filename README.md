@@ -5,7 +5,7 @@
 </p>
 
 - ✍ I'm currently studying at [Danang University of Technology](https://dut.udn.vn/) (DUT).
-- 🌱 Studying and working as a **Full-stack Developer**.
+- 🌱 Studying and working as a **Software Engineer .NET**.
 
 ## Contact me
 
